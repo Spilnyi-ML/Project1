@@ -1,6 +1,7 @@
 package com.homeproject.firstproject;
 
 public class HomeWorkApp {
+
    public static void main(String[] args){ //пункт 1
        printThreeWords();
        checkSumSign();
